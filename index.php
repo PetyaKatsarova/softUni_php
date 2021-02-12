@@ -38,7 +38,9 @@
     </footer>  
     <div>
     <?php 
-    include 'basic-syntax/upr.php';
+    //include 'basic-syntax/upr.php';
+    // include 'advancedSynthax/lab/reverse.php';
+    include 'advancedSynthax/exercise/maxSequence.php';
     ?>
     </div>   
     </body>    
