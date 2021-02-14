@@ -40,7 +40,7 @@
     <?php 
     //include 'basic-syntax/upr.php';
     // include 'advancedSynthax/lab/reverse.php';
-    include 'advancedSynthax/exercise/maxSequence.php';
+    include 'advancedSynthax/exercise/sumMatrixEls.php';
     ?>
     </div>   
     </body>    

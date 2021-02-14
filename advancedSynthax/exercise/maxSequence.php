@@ -21,3 +21,4 @@ function mostFrequentNum($arr){
 }
 
 mostFrequentNum([7,7,7,0,2,2,2,0,10,10,10]);
+mostFrequentNum([4,4,4,4]);

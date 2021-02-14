@@ -44,6 +44,7 @@
 // $arr = [];
 // $str = strtoupper($str);
 // for($i=0; $i<strlen($str); $i++){
+    //// ord($str) Return ASCII value of character
 //    if(ord($str[$i]) >= ord('A') && ord($str[$i]) <= ord('Z')){
 //        if(isset($result[$str[$i]])){
 //            $result[$str[$i]]++;
@@ -92,11 +93,6 @@
 // $arr = [1,2,3,4,5,];
 // for($i=count($arr); $i>=0; $i--){
 //     echo $arr[$i] . ' ';
-// }
-// $arr = array('one', 'two', 'three');
-// for($index=0; $index<count($arr); $Index++){
-//     $result = sprintf("arr[%d]=%s", $i, $arr[$i]) . PHP_EOL;
-//     echo $result;
 // }
 
 // $cars = ['a', 'b', 'c'];

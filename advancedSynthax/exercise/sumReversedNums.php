@@ -1,7 +1,5 @@
 <?php
 
-use function PHPSTORM_META\type;
-
 function sumReversedNums($arr){
     $sum = 0;
    // echo gettype($str);
