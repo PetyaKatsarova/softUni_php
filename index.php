@@ -40,7 +40,9 @@
     <?php 
     //include 'basic-syntax/upr.php';
     // include 'advancedSynthax/lab/reverse.php';
-    include 'advancedSynthax/exercise/sumMatrixEls.php';
+    // include 'advancedSynthax/exercise/sumMatrixEls.php';
+    include 'play.php';
+    include 'datatransfer.php';
     ?>
     </div>   
     </body>    
