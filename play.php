@@ -1,5 +1,8 @@
 <?php
 var_dump($_POST);
+foreach($_POST['tag'] as $bla){
+    echo $bla . "<br>";
+}
 //exit;
 $articles = [
     'statiata na pesho',
